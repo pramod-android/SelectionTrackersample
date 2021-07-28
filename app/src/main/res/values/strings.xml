@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SelectionTrackerSample</string>
+
+    <string-array name="ExpValues">
+        <item>FVC</item>
+        <item>FEV1</item>
+        <item>PEF</item>
+        <item>FEV0.75</item>
+        <item>FEV3</item>
+        <item>FEV6</item>
+        <item>FEV1/FEV6</item>
+        <item>FEV0.75/FVC</item>
+        <item>FEV1/FVC</item>
+        <item>FEV3/FVC</item>
+        <item>FEV6/FVC</item>
+        <item>FEF25-75</item>
+        <item>FEF50</item>
+    </string-array>
+    <string-array name="InspValues">
+        <item>FIV1</item>
+        <item>PIF</item>
+        <item>FIVC</item>
+        <item>FIV1/FIVC</item>
+        <item>FIF25-75</item>
+    </string-array>
+    <string-array name="intervals">
+        <item>Last 7 Days</item>
+        <item>Last 15 Days</item>
+        <item>Last Month</item>
+    </string-array>
+</resources>
